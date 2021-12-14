@@ -1,5 +1,5 @@
 # Recruitments 2021
-This repo's sole purpose is to upload your finished tasks. Below are the instructions to use this repo.
+This organisation's sole purpose is to upload code for your finished tasks. Below are the instructions to use this organisation.
 
 ## Making your own repo
 If you are here for the first time then create a new **private repo** using your name, for example if your name is "Darth Vader" then use keep the repo name as `darth_vader`.
